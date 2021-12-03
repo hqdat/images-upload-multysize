@@ -1,0 +1,26 @@
+{
+  "name": "images-upload-multysize",
+  "version": "1.0.0",
+  "description": "upload images auto multi resize to host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqdat/images-upload-multysize.git"
+  },
+  "keywords": [
+    "upload",
+    "images"
+  ],
+  "author": "hqdat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hqdat/images-upload-multysize/issues"
+  },
+  "homepage": "https://github.com/hqdat/images-upload-multysize#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.2"
+  }
+}
